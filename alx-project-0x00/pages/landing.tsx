@@ -20,6 +20,7 @@ const Landing: React.FC =  () => {
       <div className="space-x-4">
         <Button title="Rounded SM" styles="rounded-sm" />
         <Button title="Rounded MD" styles="rounded-md" />
+        <Button title="Rounded LG" styles="rounded-lg" />
         <Button title="Rounded Full" styles="rounded-full" />
       </div>
       </div>
